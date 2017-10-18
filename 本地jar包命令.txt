@@ -1,0 +1,2 @@
+mvn install:install-file -Dfile=maven-clean-plugin-2.4.1.jar -DgroupId=org.apache.maven.plugins -DartifactId=maven-clean-plugin -Dversion=2.4.1 -Dpackaging=jar
+<localRepository>E:/JavaTools/OpenSource/Repositories/Maven</localRepository>
